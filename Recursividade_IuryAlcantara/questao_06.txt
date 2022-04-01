@@ -11,3 +11,5 @@ rec (10) = rec(1) + 4 = 5
 rec (15) = rec(5) + 4 = 9
 
 rec (20) = rec(9) + 4 = 13
+
+Resultado = 13
